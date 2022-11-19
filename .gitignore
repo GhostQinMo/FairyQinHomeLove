@@ -12,7 +12,7 @@ buildNumber.properties
 **/mvnw
 **/mvnw.cmd
 .idea/
-
+*/.gitignore
 HELP.md
 **/.mvn
 !.mvn/wrapper/maven-wrapper.jar

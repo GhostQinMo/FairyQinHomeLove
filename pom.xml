@@ -29,6 +29,7 @@
         <module>FairyQin_order</module>
         <module>FairyQin_member</module>
         <module>FairyQin_ware</module>
+        <module>renren-fast</module>
     </modules>
 
     <dependencyManagement>

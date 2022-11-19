@@ -9,9 +9,9 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>FairyQin_ware</artifactId>
-    <name>FairyQin_ware</name>
-    <description>仓库模块</description>
+    <artifactId>FairyQin_coupon</artifactId>
+    <name>FairyQin_coupon</name>
+    <description>优惠卷模块</description>
 
     <dependencies>
         <dependency>
