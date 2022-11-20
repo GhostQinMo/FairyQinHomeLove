@@ -30,6 +30,8 @@
         <module>FairyQin_member</module>
         <module>FairyQin_ware</module>
         <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>FairyQin_common</module>
     </modules>
 
     <dependencyManagement>

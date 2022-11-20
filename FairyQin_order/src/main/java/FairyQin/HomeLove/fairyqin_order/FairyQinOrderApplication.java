@@ -1,4 +1,4 @@
-package FairyQin.HomeLovefairyqin_order;
+package FairyQin.HomeLove.fairyqin_order;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
