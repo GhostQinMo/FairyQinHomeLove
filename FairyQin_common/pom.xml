@@ -12,11 +12,6 @@
 
     <artifactId>FairyQin_common</artifactId>
 
-    <properties>
-        <maven.compiler.source>8</maven.compiler.source>
-        <maven.compiler.target>8</maven.compiler.target>
-    </properties>
-
     <dependencies>
 <!--        导入boot整合的mybatis-plus依赖 -->
         <dependency>
@@ -66,12 +61,13 @@
             <version>4.0.1</version>
             <scope>provided</scope>
         </dependency>
+
         <dependency>
             <groupId>jakarta.validation</groupId>
             <artifactId>jakarta.validation-api</artifactId>
         </dependency>
 
-
     </dependencies>
+
 
 </project>

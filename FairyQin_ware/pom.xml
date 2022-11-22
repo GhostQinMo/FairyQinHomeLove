@@ -11,10 +11,10 @@
 
     <artifactId>FairyQin_ware</artifactId>
     <name>FairyQin_ware</name>
-    <description>仓库模块</description>
+    <description>仓储模块</description>
 
     <dependencies>
-<!--        导入common公共依赖-->
+        <!--        导入公共依赖-->
         <dependency>
             <groupId>com.GhostQinMo</groupId>
             <artifactId>FairyQin_common</artifactId>
