@@ -1,5 +1,6 @@
 package FairyQin.HomeLove.fairyqin_product.entity;
 
+import com.baomidou.mybatisplus.annotation.TableField;
 import com.baomidou.mybatisplus.annotation.TableId;
 import com.baomidou.mybatisplus.annotation.TableName;
 
@@ -27,6 +28,7 @@ public class CategoryEntity implements Serializable {
 	/**
 	 * 分类名称
 	 */
+	@TableField()
 	private String name;
 	/**
 	 * 父分类id
